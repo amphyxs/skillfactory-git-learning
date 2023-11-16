@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	name = Kirill Sandow
+	email = amphyxs@gmail.com
+[alias]
+	history = log --graph
